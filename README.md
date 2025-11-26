@@ -50,4 +50,4 @@
 ---
 # 2025.09
 在网站进行维护后，此前使用爬取方式失效，重新写了新的爬取文件
-> 详见[Gust-feng/py](https://github.com/Gust-feng/Gust_feng/tree/main/py/%E7%88%AC%E8%99%AB)
+> 详见[Gust-feng/py](https://github.com/Gust-feng/Gust_feng/tree/main/%E6%94%AF%E7%BA%BF/py/%E7%88%AC%E8%99%AB)
